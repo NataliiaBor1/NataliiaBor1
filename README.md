@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nataliia
-- 👀 I’m interested in Software development, Software testing
-- 🌱 I’m currently learning Java, Spring Boot, Hibernate, JUnit testing, Data structures
+- 👀 I’m interested in Full Stack Software development, Software testing
+- 🌱 I’m currently learning Java, Spring Boot, Bootstrap, Hibernate, JUnit testing, Data structures
 - 📫 How to reach me: borisenko.nataliia1@gmail.com
 
 <!---
